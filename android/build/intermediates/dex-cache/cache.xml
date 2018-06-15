@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/detox/android/detox/build/intermediates/intermediate-jars/minReactNative46/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c3820b910bb2f2a8986dc3543e7e5dd7a64db1b7">
+        <dex dex="/Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/android/app/build/intermediates/transforms/preDex/androidTest/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gauravkarvir/.gradle/caches/transforms-1/files-1.1/react-native-0.51.1.aar/742126be0f9bb124eeff109f8842bf4b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3c3587806048411811c11299d7467aeaf21dbd98">
+        <dex dex="/Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/android/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gauravkarvir/.gradle/caches/transforms-1/files-1.1/react-native-0.51.1.aar/742126be0f9bb124eeff109f8842bf4b/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/android/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+
+</items>

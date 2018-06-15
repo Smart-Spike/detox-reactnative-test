@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTModuleMethod.mm \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTCxxConvert.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTManagedPointer.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/gauravkarvir/projects/detox/examples/demo-react-native-jest/node_modules/react-native/React/Profiler/RCTProfile.h
