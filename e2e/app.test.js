@@ -21,9 +21,10 @@ describe('Detox ReactNative Test with Jest and SuperTest', () => {
         container.post('')
             .send({title: 'animal', body: 'cat', userId: 1})
             .set('Accept', 'application/json')
-            .end((err, res) => {
-                console.log('response', JSON.stringify(res.body));
-            });
+            //.end((err, res) => {
+               // console.log('response', JSON.stringify(res.body));
+        //    })
+        .expect(201,done);
 
     });
 
