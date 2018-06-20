@@ -4,6 +4,7 @@
 
 ## Requirements
 
+* Java Script knowledge https://github.com/getify/You-Dont-Know-JS
 * Make sure you have Xcode installed (tested with Xcode 8.1-8.2).
 * make sure you have node installed (`brew install node`, node 8.3.0 and up is required for native async-await support, otherwise you'll have to babel the tests).
 * Make sure you have react-native dependencies installed:
