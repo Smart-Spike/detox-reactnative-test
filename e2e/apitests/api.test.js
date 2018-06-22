@@ -19,9 +19,9 @@ describe('API Tests with SuperTest and Jest', () => {
             .send({title: 'animal', body: 'cat', userId: 1})
             .set('Accept', 'application/json')
             //.end((err, res) => {
-               // console.log('response', JSON.stringify(res.body));
-        //    })
-        .expect(201,done);
-});
+            // console.log('response', JSON.stringify(res.body));
+            //    })
+            .expect(201, done);
+    });
 
 });

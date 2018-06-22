@@ -1,4 +1,3 @@
-
 describe('Detox React Native Tests with Jest', () => {
     beforeEach(async () => {
         await device.reloadReactNative();

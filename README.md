@@ -1,6 +1,13 @@
 > detox
 
-# React Native Demo Project
+# React Native Demo Project with Test Automation Framework
+
+
+## Automation Framework 
+* Support Native mobile App Testing using Detox 
+* Api Testing using SuperTest
+* DB testing using mysql https://github.com/mysqljs/mysql
+* HTML Test report with Jest-Html-Reporter https://www.npmjs.com/package/jest-html-reporter
 
 ## Requirements
 
