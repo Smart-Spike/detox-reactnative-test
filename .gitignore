@@ -41,4 +41,5 @@ buck-out/
 \.buckd/
 *.keystore
 
-ios/build
+ios/build/
+test-report/
